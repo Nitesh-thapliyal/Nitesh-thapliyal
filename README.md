@@ -4,7 +4,7 @@
 ### I'm Tech Enthusiast👨‍💻. I'm passionate about current and emerging technologies😎. I have always been fascinated by how things work, functionality, and problem-solving🧐.
 
 ### Skills and Technology so far ⭐
-##### Redhat Linux | AWS Cloud <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='20'> | Docker | Hadoop | Git & GitHub | WordPress | Programming languages( Java, Python, c++, c) | Front-End Development (HTML & CSS) | My SQL Database.
+##### Redhat Linux | AWS Cloud <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='20'> | Docker | Hadoop | Git & GitHub | WordPress | Programming languages( Java, Python, c++, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='20'>) | Front-End Development (HTML & CSS) | My SQL Database.
 
 ## Check out my works and achievements around the Web :
 
