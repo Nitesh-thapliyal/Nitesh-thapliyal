@@ -10,4 +10,4 @@
 
 - Writing Technical Blogs on <a href="https://bauddhik-geek.blogspot.com/">Blogger</a> ✍📃
 
-- Sharing achievements and working updates on <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)   🏆🥇
+- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>] 🏆🥇
