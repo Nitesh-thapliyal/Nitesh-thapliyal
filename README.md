@@ -10,7 +10,4 @@
 
 - Writing Technical Blogs on <a href="https://bauddhik-geek.blogspot.com/">Blogger</a> ✍📃
 
-- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135">LinkedIn </a> 🏆🥇
-<a href="https://github.com/Nitesh-thapliyal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.Nitesh-thapliyal1.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&include_all_commits=true&theme=radical" alt="Nitesh's github stats" />
-</a>
+- Sharing achievements and working updates on <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)   🏆🥇
