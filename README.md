@@ -1,5 +1,6 @@
 ### Hi I'm Nitesh👋👨‍🎓
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/Nitesh%20thapliyal.gif">
+
 ### I'm Tech Enthusiast👨‍💻. I'm passionate about current and emerging technologies😎. I have always been fascinated by how things work, functionality, and problem-solving🧐.
 
 ### Skills and Technology so far ⭐
