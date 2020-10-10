@@ -14,4 +14,4 @@
 
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135">LinkedIn </a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=Nitesh-thapliyal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api?username=Nitesh-thapliyal">
