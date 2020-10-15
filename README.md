@@ -1,7 +1,7 @@
 ### Hi I'm Nitesh👋👨‍🎓
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/Black%20and%20White%20Sports%20Fitness%20Animated%20Presentation%20(1).gif">
 
-### I'm Tech Enthusiast👨‍💻. I'm passionate about current and emerging technologies😎. I have always been fascinated by how things work, functionality, and problem-solving🧐.
+### I'm Tech Enthusiast. I'm passionate about current and emerging technologies.I have always been fascinated by how things work, functionality,and problem-solving.
 
 ### Skills and Technology so far ⭐
 #### Redhat Linux | AWS Cloud | Docker | Hadoop | Git & GitHub | WordPress | Programming languages( Java, Python, c++, c ) | Front-End Development ( HTML & CSS ) | My SQL Database.
@@ -12,5 +12,7 @@
 - Writing Technical Blogs on <a href="https://bauddhik-geek.blogspot.com/">Blogger</a> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='20'>
 
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135">LinkedIn </a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>
+
+
 
 <img src ="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal">
