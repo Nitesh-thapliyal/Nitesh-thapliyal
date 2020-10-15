@@ -1,5 +1,5 @@
 ### Hi I'm Nitesh👋👨‍🎓
-<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/Nitesh%20thapliyal.gif">
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/Black%20and%20White%20Sports%20Fitness%20Animated%20Presentation%20(1).gif">
 
 ### I'm Tech Enthusiast👨‍💻. I'm passionate about current and emerging technologies😎. I have always been fascinated by how things work, functionality, and problem-solving🧐.
 
