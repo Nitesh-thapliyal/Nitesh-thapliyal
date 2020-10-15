@@ -31,3 +31,7 @@
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/(Foto_%20Reprodu%C3%A7%C3%A3o)%20_%20Ilustra%C3%A7%C3%B5es%2C%20Ilustra%C3%A7%C3%A3o%20da%20arte%2C%20Arte%20reflex%C3%A3o.gif">
 
 <img src ="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal">
+
+<a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" alt="" width="26" height="26" /></a></td>
+<td style="width: 30px;"><a href="https://www.instagram.com/nits_thapliyal" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="" width="25" height="25" /></a></td>
+<td style="width: 34.6px;"><a href="https://www.facebook.com/nitesh.thapliyal.12" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1312/1312139.svg" alt="" width="28" height="28" /></a>
