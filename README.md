@@ -18,9 +18,13 @@
 
 ### Hobbies:
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Singing🎤
+
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Playing Guitar🎸
+
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Blogging📝
+
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Playing Football⚽
+
 <img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Playing Video Games🎮
 
 ### ▪️I'm still enthusiastically grabbing onto new skills, technology, and enhancing my knowledge.
