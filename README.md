@@ -17,6 +17,13 @@
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/nitesh-thapliyal-4403a1135">LinkedIn </a><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>
 
 ### Hobbies:
-<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Singing🎤
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Playing Guitar🎸
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Blogging📝
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Playing Football⚽
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/next.png" height='20'>Playing Video Games🎮
+
+### ▪️I'm still enthusiastically grabbing onto new skills, technology, and enhancing my knowledge.
+<img src ="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/(Foto_%20Reprodu%C3%A7%C3%A3o)%20_%20Ilustra%C3%A7%C3%B5es%2C%20Ilustra%C3%A7%C3%A3o%20da%20arte%2C%20Arte%20reflex%C3%A3o.gif">
 
 <img src ="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal">
