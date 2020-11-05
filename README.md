@@ -36,6 +36,6 @@ export default () => ({
 
 <img src ="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal">
 
-<a href="https://www.instagram.com/nits_thapliyal" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="" width="25" height="25" /></a> <a href="https://www.facebook.com/nitesh.thapliyal.12" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="" width="25" height="25" /></a><a href="https://dev.to/niteshthapliyal">
+<a href="https://www.instagram.com/nits_thapliyal" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="" width="25" height="25" /></a> <a href="https://www.facebook.com/nitesh.thapliyal.12" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" alt="" width="25" height="25" /></a><a href="https://dev.to/niteshthapliyal">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nitesh Thapliyal's DEV Profile" height="30" width="30">
 </a>
