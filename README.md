@@ -22,7 +22,7 @@ export default () => ({
     "machineLearning": [ "Scikit-learn", "IBM Watson" ],
     "datavisualization": [ "Matplotlib", "Seaborn" ],
     "bigdata": [ "Hadoop" ],
-    "devOps": [ "Git", "Docker", "Ansible" ],
+    "devOpsTools": [ "Git", "Docker", "Ansible" ],
     "cloudOps": [ "AWS", "Azure", "IBM Cloud" ],
     "operatingSystems": [ "Linux", "Unix", "Windows" ],
     "BiTools": [ "Power BI", "Tableau"],
