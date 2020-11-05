@@ -32,11 +32,11 @@ export default () => ({
   Experience: [
     "Intern at Linux World Informatics Pvt Ltd.",
     "Tranee at IIEC RISE",
-  ]
+  ],
    Skills: [
     "Leadership", "Team Building", "Decision Making",
     "Problem Solving", "Time Management", "Rapid Learner" 
-  ]
+  ],
    Interest: [
     "Technology", "Blogging", "Reading Books",
     "Football", "Music", "video games" 
