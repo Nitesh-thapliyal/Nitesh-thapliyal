@@ -19,8 +19,9 @@ export default () => ({
     "databases": [ "MySQl", "PL/SQL", "IBM DB2" ],
     "applications": [ "Adobe CC", "Microsoft Office" ],
     "mathematicsAndStatistics": [ "NumPy" ],
-    "machineLearning": [ "IBM Watson" ],
-    "Bigdata": [ "Hadoop" ],
+    "machineLearning": [ "Scikit-learn", "IBM Watson" ],
+    "datavisualization": [ "Matplotlib", "Seaborn" ],
+    "bigdata": [ "Hadoop" ],
     "devOps": [ "Git", "Docker", "Ansible" ],
     "cloudOps": [ "AWS", "Azure", "IBM Cloud" ],
     "operatingSystems": [ "Linux", "Unix", "Windows" ],
@@ -35,6 +36,6 @@ export default () => ({
 
 <img src ="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal">
 
-<a href="https://www.instagram.com/nits_thapliyal" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="" width="25" height="25" /></a> <a href="https://www.facebook.com/nitesh.thapliyal.12" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1312/1312139.svg" alt="" width="28" height="28" /></a> <a href="https://twitter.com/NiteshThapliya3" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="" width="25" height="25" /></a><a href="https://dev.to/niteshthapliyal">
+<a href="https://www.instagram.com/nits_thapliyal" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="" width="25" height="25" /></a> <a href="https://www.facebook.com/nitesh.thapliyal.12" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="" width="25" height="25" /></a><a href="https://dev.to/niteshthapliyal">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nitesh Thapliyal's DEV Profile" height="30" width="30">
 </a>
