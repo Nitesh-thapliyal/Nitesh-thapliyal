@@ -26,9 +26,21 @@ export default () => ({
     "cloudOps": [ "AWS", "Azure", "IBM Cloud" ],
     "operatingSystems": [ "Linux", "Unix", "Windows" ],
     "BiTools": [ "Power BI", "Tableau"],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook" ]
+    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook",
+                 "Eclipse", "Atom" ]
   },
-  
+  Experience: [
+    "Intern at Linux World Informatics Pvt Ltd.",
+    "Tranee at IIEC RISE",
+  ]
+   Skills: [
+    "Leadership", "Team Building", "Decision Making",
+    "Problem Solving", "Time Management", "Rapid Learner" 
+  ]
+   Interest: [
+    "Technology", "Blogging", "Reading Books",
+    "Football", "Music", "video games" 
+  ]
 });
 ```
 
