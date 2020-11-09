@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Bauddhik_Geek)](https://twitter.com/Bauddhik_Geek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13961624/nitesh-thapliyal)](https://stackoverflow.com/users/13961624/nitesh-thapliyal)
-(https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/niteshthapliyal) 
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/niteshthapliyal) 
 
 
 👨‍🎓 Bachelor in Information Technology from IHMS( HNB Garhwal University ) 
