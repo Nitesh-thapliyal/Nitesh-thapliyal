@@ -28,8 +28,8 @@ export default () => ({
     "cloudOps": [ "AWS", "Azure", "IBM Cloud" ],
     "operatingSystems": [ "Linux", "Unix", "Windows" ],
     "BiTools": [ "Power BI", "Tableau"],
-    "editors": [ "VSCode", "ViM", "Pycharm", "Jupyter Notebook",
-                 "Eclipse", "Atom" ]
+    "editors": [ "VSCode", "ViM" , "Atom" ]
+    "IDE": [ "PyCharm", "Eclipse" , "Code::Blocks" , "Jupyter Notebook" ]
   },
   Experience: [
     "Intern at Linux World Informatics Pvt Ltd.",
