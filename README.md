@@ -102,5 +102,9 @@ export default () => ({
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <br>
 <br>
+![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-thapliyal.Nitesh-thapliyal)
+
+<h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
