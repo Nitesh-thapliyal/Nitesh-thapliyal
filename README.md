@@ -37,6 +37,11 @@ export default () => ({
     "Intern at Linux World Informatics Pvt Ltd.",
     "Tranee at IIEC RISE",
   ],
+  Acheivement: [
+    "Top performer in Hactoberfest organised by Crio.do",
+    "Contributed to the open-source community by creating MicroByte on
+     AWS High Availability Architecture and Hadoop Cluster"
+  ],
    Skills: [
     "Leadership", "Team Building", "Decision Making",
     "Problem Solving", "Time Management", "Rapid Learner" 
