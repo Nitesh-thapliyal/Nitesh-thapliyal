@@ -73,7 +73,6 @@ export default () => ({
 <img align="center" src="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
 </p>
 <br>
->
 <img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
 <br/>
 
@@ -101,6 +100,7 @@ export default () => ({
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<br>
 <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-thapliyal.Nitesh-thapliyal)
 
