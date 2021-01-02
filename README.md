@@ -76,7 +76,7 @@ export default () => ({
 <img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
 <br/>
 
-**LANGUAGES AND TOOLS:**  
+**LANGUAGES AND TOOLS👨‍💻**  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
