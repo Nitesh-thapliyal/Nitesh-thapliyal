@@ -1,9 +1,9 @@
 ### Hi I'm Nitesh👨‍💻
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://twitter.com/Bauddhik_Geek)
+ [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Bauddhik_Geek)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13961624/nitesh-thapliyal)](https://stackoverflow.com/users/13961624/nitesh-thapliyal)
+[<img src="https://img.shields.io/badge/stackoverflow-%23292929.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13961624/nitesh-thapliyal)
 [<img src="https://img.shields.io/badge/Dev-%23292929.svg?&style=for-the-badge&logo=Dev&logoColor=white" />](https://dev.to/niteshthapliyal) 
-
+[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@niteshnits-thapliyal) 
 
 👨‍🎓 Bachelor in Information Technology from IHMS( HNB Garhwal University ) 
 
