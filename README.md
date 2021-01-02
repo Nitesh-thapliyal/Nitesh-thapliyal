@@ -45,9 +45,14 @@ export default () => ({
   ]
 });
 ```
+ <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nitesh-thapliyal&theme=gruvbox"/>
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height='50'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height='40'> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height='40'> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height='40'> <img src="https://www.nagios.com/wp-content/uploads/2018/04/RedHat-logo.jpg" height='40'> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'> 
-
-<img src ="https://github-readme-stats-omega-umber.vercel.app/api?username=Nitesh-thapliyal">
-
-<a href="https://www.instagram.com/nits_thapliyal" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" alt="" width="25" height="25" /></a> <a href="https://www.facebook.com/nitesh.thapliyal.12" target="_blank" rel="noopener"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" alt="" width="25" height="25" /></a>
+<h2><summary align="center">Github Stats 📈:</summary></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
+</p>
