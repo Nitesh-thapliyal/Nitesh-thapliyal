@@ -1,6 +1,7 @@
 ### Hi I'm Nitesh👨‍💻
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Bauddhik_Geek)](https://twitter.com/Bauddhik_Geek)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Nitesh-thapliyal)
+[![Twitter Badge](http://img.shields.io/badge/-@Bauddhik_Geek-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Bauddhik_Geek)](https://twitter.com/Bauddhik_Geek)
+[![Linkedin Badge](https://img.shields.io/badge/-Nitesh%20Thapliyal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nitesh-thapliyal/)](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13961624/nitesh-thapliyal)](https://stackoverflow.com/users/13961624/nitesh-thapliyal)
 [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/niteshthapliyal) 
 
@@ -60,7 +61,8 @@ export default () => ({
 </p>
 <br/>  
 
-<h2><summary align="center">Github Stats 📈:</summary></h2>
+<h2><summary align="center">Github Stats 📈</summary></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
 </p>
+
