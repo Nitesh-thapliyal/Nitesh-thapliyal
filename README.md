@@ -65,7 +65,7 @@ export default () => ({
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
+<img align="center" src="https://github-readme-stats.nitesh-thapliyal.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
 </p>
 
 
