@@ -98,7 +98,7 @@ export default () => ({
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eucalyp-Deus_Linux.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <br>
 <br>
