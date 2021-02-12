@@ -38,9 +38,7 @@ export default () => ({
     "Tranee at IIEC RISE",
   ],
   Acheivement: [
-    "Top performer in Hactoberfest organised by Crio.do",
-    "Contributed to the open-source community by creating MicroByte on
-     AWS High Availability Architecture and Hadoop Cluster"
+    "Top performer in Hactoberfest organised by Crio.do"
   ],
    Skills: [
     "Leadership", "Team Building", "Decision Making",
