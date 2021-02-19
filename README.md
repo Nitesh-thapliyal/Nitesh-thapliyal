@@ -85,7 +85,7 @@ export default () => ({
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://images.ctfassets.net/vtn4rfaw6n2j/kubernetespng/1a3a656ab9a2f9edb7b68e827ca5e768/kubernetes.png"></code>
+<code><img height="40" width="40" src="https://provato-cdn.azureedge.net/www-provato/2020/11/kubernetes.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png"></code>
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
