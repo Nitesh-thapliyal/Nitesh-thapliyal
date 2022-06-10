@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://bauddhik-geek.blogspot.com) 
 
 
-👨‍🎓 Master in Computer Application from GL Bajaj Institute of Technology and Mangement. 
+👨‍🎓 Master of Computer Application from GL Bajaj Institute of Technology and Mangement. 
 
 ```js
 export default () => ({
