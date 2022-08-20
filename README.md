@@ -57,8 +57,7 @@ export default () => ({
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-thapliyal&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
-<br/>  
-
+ 
 <h2><summary align="center">Github Stats 📈</summary></h2>
 <p align="center">
 <img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
