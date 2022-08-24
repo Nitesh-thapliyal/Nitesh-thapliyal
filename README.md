@@ -20,18 +20,10 @@ export default () => ({
   technologies: {
     "Programming languages": [ "C", "C++", "Python", "Java"],
     "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","WordPress" ],
-    "databases": [ "MySQl", "PL/SQL", "IBM DB2" ],
-    "applications": [ "Adobe CC", "Microsoft Office" ],
-    "mathematicsAndStatistics": [ "NumPy" ],
-    "machineLearning": [ "Scikit-learn", "IBM Watson" ],
-    "datavisualization": [ "Matplotlib", "Seaborn" ],
-    "bigdata": [ "Hadoop" ],
-    "devOpsTools": [ "Git", "Docker", "Ansible", "Kubernetes" ],
+    "databases": [ "MySQl", "PL/SQL", "MongoDB" ],
+    "devOpsTools": [ "Git", "Docker", "Ansible", "Kubernetes", "Terraform" ],
     "cloudOps": [ "AWS", "Azure","GCP", "IBM Cloud" ],
-    "operatingSystems": [ "Linux", "Unix", "Windows" ],
-    "BiTools": [ "Power BI", "Tableau"],
-    "editors": [ "VSCode", "ViM" , "Atom" ]
-    "IDE": [ "PyCharm", "Eclipse" , "Code::Blocks" , "Jupyter Notebook" ]
+    "operatingSystems": [ "Linux", "Unix", "Windows" ]
   },
   Experience: [
     "Intern at Linux World Informatics Pvt Ltd.",
