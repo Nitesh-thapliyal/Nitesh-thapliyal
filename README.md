@@ -1,18 +1,18 @@
 ### Hi I'm Nitesh👨‍💻
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Bauddhik_Geek)
+<!-- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Bauddhik_Geek)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
 [<img src="https://img.shields.io/badge/stackoverflow-%23292929.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13961624/nitesh-thapliyal)
 [<img src="https://img.shields.io/badge/Dev-%23292929.svg?&style=for-the-badge&logo=Dev&logoColor=white" />](https://dev.to/niteshthapliyal) 
 [<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@niteshnits-thapliyal)
-[<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://bauddhik-geek.blogspot.com) 
+[<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://bauddhik-geek.blogspot.com)  -->
 
-
-👨‍🎓 Master of Computer Application from GL Bajaj Institute of Technology and Mangement. 
+<!-- 
+👨‍🎓 Master of Computer Application from GL Bajaj Institute of Technology and Mangement.  -->
 
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  blogUrl: "https://bauddhik-geek.blogspot.com/",
+  blogUrl: "https://dev.to/niteshthapliyal",
   askMeAbout: [
     "webdev", "tech", "data",
     "Devops", "research"
