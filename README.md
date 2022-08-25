@@ -74,12 +74,6 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
 <br/>
 
-**Tools & Technology discovered so far👨‍💻**  
-<br/>
-<br/>
-
-<br>
-<br>
 ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-thapliyal.Nitesh-thapliyal)
