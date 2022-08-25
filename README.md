@@ -18,8 +18,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 </p>
 
 
-<h2>👨‍💻</h2>
-
+💭💭💭💭💭💭💭💭💭💭
 
 - I'm [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)  
 - Crio advocate at [Crio.do](https://www.crio.do/)
