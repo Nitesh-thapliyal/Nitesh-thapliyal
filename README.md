@@ -71,8 +71,6 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
 </p>
 <br>
-<img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
-<br/>
 
 ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
 
