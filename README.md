@@ -26,30 +26,8 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 - MLOPS Trainee at [Linux World Informatics Pvt Ltd](https://www.linuxworldindia.org/)
 
 
+<h2>Skils</h2>
 
-
-
-
-
-
-<p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-thapliyal&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
-</p>
- 
-<h2><summary align="center">Github Stats 📈</summary></h2>
-<p align="center">
-<img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
-</p>
-<br>
-<img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
-<br/>
-
-**Tools & Technology discovered so far👨‍💻**  
-<br/>
-<br/>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/azure-1.png"></code>
 <code><img height="40" width="40" src="https://www.gstatic.com/devrel-devsite/prod/v9d82702993bc22f782b7874a0f933b5e39c1f0889acab7d1fce0d6deb8e0f63d/cloud/images/favicons/onecloud/apple-icon.png"></code>
@@ -71,6 +49,28 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eucalyp-Deus_Linux.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+
+
+
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-thapliyal&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+ 
+<h2><summary align="center">Github Stats 📈</summary></h2>
+<p align="center">
+<img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
+</p>
+<br>
+<img align="left" height="300" width="300" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/cool2.gif">
+<br/>
+
+**Tools & Technology discovered so far👨‍💻**  
+<br/>
+<br/>
+
 <br>
 <br>
 ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
