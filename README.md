@@ -21,12 +21,13 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <h2>💭💭</h2>
 <img src = "work1.gif" align="right" height="200px"/>
 
-- I'm currently working on Django
-- I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
-- Ask me about: Community Building, DevOps, Cloud & Tech
-- Check out my [Portfolio](https://nitesh-thapliyal.tech/)
-- I'm Looking for Developer Advocate, Developer Relation or DevOps Engineer role
-- 
+- 👨‍💻 I'm currently working on Django
+- ☁️ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
+- 🤝 Ask me about: Community Building, DevOps, Cloud & Tech
+- 🕶 Check out my [Portfolio](https://nitesh-thapliyal.tech/)
+- 🌟 I like to Sing, play football and reading books.
+- 🔍 I'm Looking for Developer Advocate, Developer Relation or DevOps Engineer role
+
 
 
 
