@@ -1,9 +1,5 @@
 ## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Nitesh Thapliyal ](https://nitesh-thapliyal.tech) <a href="https://twitter.com/Bauddhik_Geek"><img align="right" src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://dev.to/niteshthapliyal"><img align="right" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> [<img align ="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal)
 
-<!-- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Bauddhik_Geek) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
- [<img src="https://img.shields.io/badge/Dev-%23292929.svg?&style=for-the-badge&logo=Dev&logoColor=white" />](https://dev.to/niteshthapliyal)  -->
-
 <img src="nitesh.png" height="200px" align="right" />
 
 I'm <b>curious soul learning and exploring techologies</b>. I'm Currently pursuing <b>Master of Computer Application</b> from [GLBITM](https://www.glbitm.org). I'm passionate about current and emerging technologies. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing [technical blogs](https://dev.to/niteshthapliyal) and by creating <b>demonstration video</b>.
@@ -73,7 +69,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 </p>
 <br>
 
-![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png)
+<!-- ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png) -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-thapliyal.Nitesh-thapliyal)
 
