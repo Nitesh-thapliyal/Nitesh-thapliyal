@@ -4,9 +4,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
  [<img src="https://img.shields.io/badge/Dev-%23292929.svg?&style=for-the-badge&logo=Dev&logoColor=white" />](https://dev.to/niteshthapliyal)  -->
 
----
+--
 I'm curious soul learning and exploring techologies. I'm Currently pursuing Master of Computer Application from [GLBITM](https://www.glbitm.org). I'm passionate about current and emerging technologies. I have always been fascinated by how things work, functionality, and problem-solving. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing technical blogs and by creating demonstration video.
----
+--
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
