@@ -12,6 +12,12 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 [join our community](https://github.com/Bauddhik-Geeks)
 <br>
 
+
+<p align="center">
+<img src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif" height="100px"/>
+</p>
+
+
 <h2>Experience<h2>
 
  I'm [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
@@ -20,9 +26,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
  MLOPS Trainee at [Linux World Informatics Pvt Ltd](https://www.linuxworldindia.org/)
 
 
-<p align="center">
-<img src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif" height="100px"/>
-</p>
+
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
