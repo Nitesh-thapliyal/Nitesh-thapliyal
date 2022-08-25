@@ -19,7 +19,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 
 <h2>Experience</h2>
-<img src="nitesh.png" height="300px" align="right" />
+<img src="nitesh.png" height="200px" align="right" />
 
 - I'm [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)  
 - Crio advocate at [Crio.do](https://www.crio.do/)
