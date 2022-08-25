@@ -41,7 +41,6 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/50/000000/python--v1.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="http://pngimg.com/uploads/github/github_PNG72.png"></code>
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/hadoop-logo.png"></code>
@@ -50,7 +49,6 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Eucalyp-Deus_Linux.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 
