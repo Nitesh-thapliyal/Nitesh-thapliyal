@@ -55,6 +55,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fjava-logo-icon-19.png&f=1&nofb=1"></code>
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fdjango-logo.png&f=1&nofb=1"></code>
 
+<br>
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
 <p align="center">
