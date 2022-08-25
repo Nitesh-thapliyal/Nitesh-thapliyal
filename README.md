@@ -20,13 +20,10 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 <h2>Experience</h2>
 
-I'm [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
-
-Crio advocate at [Crio.do](https://www.crio.do/)
-
-Former Scaler Megastar at [Scaler Academy](https://www.scaler.com/academy)
-
-MLOPS Trainee at [Linux World Informatics Pvt Ltd](https://www.linuxworldindia.org/)
+- I'm [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
+- Crio advocate at [Crio.do](https://www.crio.do/)
+- Former Scaler Megastar at [Scaler Academy](https://www.scaler.com/academy)
+- MLOPS Trainee at [Linux World Informatics Pvt Ltd](https://www.linuxworldindia.org/)
 
 
 
