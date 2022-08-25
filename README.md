@@ -52,6 +52,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-UICquv1dBMU%2FXGYIXqyhKeI%2FAAAAAAAAR8M%2FEvjt3ADUYEYqwDHPLhl_lK5_FTrb_VZpgCLcBGAs%2Fs1600%2FJava.png&f=1&nofb=1"></code>
 
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
