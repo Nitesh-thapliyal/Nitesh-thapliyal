@@ -10,7 +10,7 @@ I'm <b>curious soul learning and exploring techologies</b>. I'm Currently pursui
 I'm OpenSource enthusiast and passionate about community building. I like to learn in public, share my knowledge and to collaborate with others. I have created a community <b>Bauddhik Geeks</b> where folks learn, share there knowledgem build projects and have fun ✨
 [join our community](https://github.com/Bauddhik-Geeks)
 <br>
-<img align="center" src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif" height="100px"/>
+<img align="right" src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif" height="100px"/>
 
 <p align="center">
   <a>
