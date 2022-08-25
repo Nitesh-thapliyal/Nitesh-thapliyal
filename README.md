@@ -6,12 +6,13 @@
 
 
 I'm <b>curious soul learning and exploring techologies</b>. I'm Currently pursuing <b>Master of Computer Application</b> from [GLBITM](https://www.glbitm.org). I'm passionate about current and emerging technologies. I have always been fascinated by how things work, functionality, and problem-solving. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing [technical blogs](https://dev.to/niteshthapliyal) and by creating <b>demonstration video</b>.
-<br>
+<br/>
 I'm OpenSource enthusiast and passionate about community building. I like to learn in public, share my knowledge and to collaborate with others. I have created a community <b>Bauddhik Geeks</b> where folks learn, share there knowledgem build projects and have fun ✨
 [join our community](https://github.com/Bauddhik-Geeks)
 <br>
-<img align="right" src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif" height="100px"/>
-
+<p align="center">
+<img src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif" height="100px"/>
+</p>
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
