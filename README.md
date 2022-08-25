@@ -1,8 +1,9 @@
-## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Nitesh Thapliyal ](https://nitesh-thapliyal.tech) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Bauddhik_Geek) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/) [<img src="https://img.shields.io/badge/Dev-%23292929.svg?&style=for-the-badge&logo=Dev&logoColor=white" />](https://dev.to/niteshthapliyal) 
+## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Nitesh Thapliyal ](https://nitesh-thapliyal.tech) 
 
+<!-- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Bauddhik_Geek) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal-4403a1135/)
+ [<img src="https://img.shields.io/badge/Dev-%23292929.svg?&style=for-the-badge&logo=Dev&logoColor=white" />](https://dev.to/niteshthapliyal)  -->
 
-<!-- 
-👨‍🎓 Master of Computer Application from GL Bajaj Institute of Technology and Mangement.  -->
 
 
 
