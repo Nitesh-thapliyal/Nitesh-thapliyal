@@ -4,39 +4,7 @@
 <!-- 
 👨‍🎓 Master of Computer Application from GL Bajaj Institute of Technology and Mangement.  -->
 
-```js
-export default () => ({
-  pronouns: "He" | "Him",
-  blogUrl: "https://dev.to/niteshthapliyal",
-  askMeAbout: [
-    "webdev", "tech", "data",
-    "Devops", "research"
-  ],
-  technologies: {
-    "Programming languages": [ "C", "C++", "Python", "Java"],
-    "webdev": [ "HTML", "CSS", "Bootstrap", "Javascript","WordPress" ],
-    "databases": [ "MySQl", "PL/SQL", "MongoDB" ],
-    "devOpsTools": [ "Git", "Docker", "Ansible", "Kubernetes", "Terraform" ],
-    "cloudOps": [ "AWS", "Azure","GCP", "IBM Cloud" ],
-    "operatingSystems": [ "Linux", "Unix", "Windows" ]
-  },
-  Experience: [
-    "Intern at Linux World Informatics Pvt Ltd.",
-    "Tranee at IIEC RISE",
-  ],
-  Acheivement: [
-    "Top performer in Hactoberfest organised by Crio.do"
-  ],
-   Skills: [
-    "Leadership", "Team Building", "Decision Making",
-    "Problem Solving", "Time Management", "Rapid Learner" 
-  ],
-   Interest: [
-    "Technology", "Blogging", "Reading Books",
-    "Football", "Music", "video games" 
-  ]
-});
-```
+
 
 <p align="center">
   <a>
