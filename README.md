@@ -19,7 +19,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 
 <h2>💭💭</h2>
-
+<img src = "work1.gif" align="right" height="200px"/>
 
 - I'm currently working on Django
 - I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
@@ -32,7 +32,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 <h2>Skills</h2>
 
-<img src = "work.gif" align="right" height="200px"/>
+
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
 <code><img height="40" width="40" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
