@@ -27,7 +27,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 - Check out my [Portfolio](https://nitesh-thapliyal.tech/)
 - I'm Looking for Developer Advocate, Developer Relation or DevOps Engineer role
 
-#
+
 
 <h2>Skills</h2>
 
