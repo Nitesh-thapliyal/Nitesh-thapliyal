@@ -25,6 +25,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 - Former Scaler Megastar at [Scaler Academy](https://www.scaler.com/academy)
 - MLOPS Trainee at [Linux World Informatics Pvt Ltd](https://www.linuxworldindia.org/)
 
+<a href="https://drive.google.com/file/d/1q4cbdKKdE-CryS_MGnI-SKVl2zMlAQKU/view?usp=sharing"><img align="right" src="https://i.ibb.co/1RXq4NB/resume-art-rounded-corners.png" alt="resume-art" width="250px"></a>
 
 
 <p align="center">
