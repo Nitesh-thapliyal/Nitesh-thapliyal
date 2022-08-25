@@ -51,6 +51,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 
+<h2><summary align="center">Github Stats 📈</summary></h2>
 
 <p align="center">
   <a>
@@ -59,7 +60,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
  
-<h2><summary align="center">Github Stats 📈</summary></h2>
+
 <p align="center">
 <img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
 </p>
