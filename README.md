@@ -19,7 +19,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 
 <h2>💭💭</h2>
-<img src = "work.gif" align="right" height="100px"/>
+<img src = "work.gif" align="right" height="200px"/>
 
 - I'm currently working on Django
 - I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
@@ -27,6 +27,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 - Check out my [Portfolio](https://nitesh-thapliyal.tech/)
 - I'm Looking for Developer Advocate, Developer Relation or DevOps Engineer role
 
+#
 
 <h2>Skills</h2>
 
