@@ -19,7 +19,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 
 <h2>💭💭</h2>
-
+<img src = "work.gif" align="right>
 - I'm currently working on Django
 - I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
 - Ask me about: Community Building, DevOps, Cloud & Tech
