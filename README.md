@@ -25,7 +25,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 - ☁️ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
 - 🤝 Ask me about: Community Building, DevOps, Cloud & Tech
 - 🕶 Check out my [Portfolio](https://nitesh-thapliyal.tech/)
-- 🌟 I like to Sing, play football and reading books.
+- 🌟 I like to Sing, play football and read books.
 - 🔍 I'm Looking for Developer Advocate, Developer Relation or DevOps Engineer role
 
 
