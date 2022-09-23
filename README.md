@@ -71,7 +71,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 <!-- ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png) -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-thapliyal.Nitesh-thapliyal)
+
 
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
