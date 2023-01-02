@@ -58,7 +58,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-thapliyal&theme=dark&hide_border=true"/>
+   <img align="center" src="https://streak-stats.demolab.com/?user=Nitesh-thapliyal&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 
