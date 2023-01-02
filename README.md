@@ -17,7 +17,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <h2>💭💭</h2>
 <img src = "work1.gif" align="right" height="200px"/>
 
-- 👨‍💻 I'm currently learning and building project using MERN stack
+- 👨‍💻 I'm currently learning and building project using MERN
 - ☁️ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
 - 🤝 Ask me about: Community Building, DevOps, Cloud & Tech
 - 👓 Check out my [Portfolio](https://nitesh-thapliyal.tech/)
