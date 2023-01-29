@@ -17,7 +17,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <h2>💭💭</h2>
 <img src = "work1.gif" align="right" height="200px"/>
 
-- 👨‍💻 I'm currently learning and building project using MERN
+- 👨‍💻 I'm currently learning MERN
 - ☁️ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
 - 🤝 Ask me about: Community Building, DevOps, Cloud & Tech
 - 👓 Check out my [Portfolio](https://nitesh-thapliyal.tech/)
@@ -30,7 +30,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 <h2>Skills</h2>
 
-<a href="https://drive.google.com/file/d/1J33BNju5z9__VifJVQIrj33kIrwC6whz/view?usp=sharing"> <img src="resume.png" align = "right" height="200px" width="200px"> </a>
+<a href="https://drive.google.com/file/d/1kmlxVosmWo0RY8NAfzEyjaIBVjF-sKXp/view?usp=share_link"> <img src="resume.png" align = "right" height="200px" width="200px"> </a>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
 <code><img height="40" width="40" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
