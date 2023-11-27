@@ -2,7 +2,7 @@
 
 <img src="nitesh.png" height="200px" align="right" />
 
-I'm <b>curious soul learning and exploring techologies</b>. I'm passionate about current and emerging technologies. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing [technical blogs](https://dev.to/niteshthapliyal) and by creating <b>demonstration video</b>.
+I'm <b>curious soul learning and exploring techologies</b>. I'm a Software Developer by profession and I'm passionate about current and emerging technologies. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing [technical blogs](https://dev.to/niteshthapliyal) and by creating <b>demonstration video</b>.
 <br/>
 
 I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>. I like to learn in public, share my knowledge and to collaborate with others. I have created a community <b>Bauddhik Geeks</b> where folks learn, share there knowledge build projects and have fun ✨ [join our community](https://github.com/Bauddhik-Geeks)
