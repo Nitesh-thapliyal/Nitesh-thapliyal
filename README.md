@@ -2,7 +2,7 @@
 
 <img src="nitesh.png" height="200px" align="right" />
 
-I'm <b>curious soul learning and exploring techologies</b>. I'm Currently pursuing <b>Master of Computer Application</b> from [GLBITM](https://www.glbitm.org). I'm passionate about current and emerging technologies. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing [technical blogs](https://dev.to/niteshthapliyal) and by creating <b>demonstration video</b>.
+I'm <b>curious soul learning and exploring techologies</b>. I'm passionate about current and emerging technologies. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I express my work by writing [technical blogs](https://dev.to/niteshthapliyal) and by creating <b>demonstration video</b>.
 <br/>
 
 I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>. I like to learn in public, share my knowledge and to collaborate with others. I have created a community <b>Bauddhik Geeks</b> where folks learn, share there knowledge build projects and have fun ✨ [join our community](https://github.com/Bauddhik-Geeks)
@@ -20,10 +20,10 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 - 👨‍💻 I'm currently learning MERN
 - ☁️ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
 - 🤝 Ask me about: Community Building, DevOps, Cloud & Tech
-- 👓 Check out my [Portfolio](https://nitesh-thapliyal.tech/)
-- 📝 Have a look at my [Blogs](https://dev.to/niteshthapliyal)
+- 👓 Check out my [Portfolio](https://nitesh-thapliyal.github.io/)
+- 📝 Have a look at my [Blogs](https://dev.to/niteshthapliya)
 - 🌟 I like to Sing, play football and read books.
-- 🔍 I'm Looking for Developer Advocate, Developer Relation or Web Developer role
+- 🔍 I'm Looking for FullStack Developer, Developer advocate role.
 
 
 
