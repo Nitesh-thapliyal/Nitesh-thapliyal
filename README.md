@@ -48,8 +48,8 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></code>
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fjava-logo-icon-19.png&f=1&nofb=1"></code>
-<code><img height="40" width="40" src="https://logonoid.com/images/postgresql-logo.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1200px-Datadog_logo.svg.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
+<code><img height="40" width="40" src="https://www.crestdatasys.com/wp-content/uploads/2021/10/datadog-logo-for-testimonial.jpg"></code>
 <br>
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
