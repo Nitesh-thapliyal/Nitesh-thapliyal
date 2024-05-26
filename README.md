@@ -33,7 +33,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <a href="https://drive.google.com/file/d/132FSRPwtV9UG8P0RJyLEuTePTDYkB2gy/view?usp=sharing"> <img src="resume.png" align = "right" height="200px" width="200px"> </a>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
-<code><img height="40" width="40" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
+<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F39%2FKubernetes_logo_without_workmark.svg%2F240px-Kubernetes_logo_without_workmark.svg.png&f=1&nofb=1"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1518044148-terraform_verticallogo_fullcolor.png&f=1&nofb=1"></code>
