@@ -35,21 +35,18 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F39%2FKubernetes_logo_without_workmark.svg%2F240px-Kubernetes_logo_without_workmark.svg.png&f=1&nofb=1"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png"></code>
-<code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.datocms-assets.com%2F2885%2F1518044148-terraform_verticallogo_fullcolor.png&f=1&nofb=1"></code>
-<code><img height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"></code>
-<code><img height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="http://pngimg.com/uploads/github/github_PNG72.png"></code>
+<code><img height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"></code>
 
-
+<code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fjava-logo-icon-19.png&f=1&nofb=1"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fintellij-idea-logo.png&f=1&nofb=1"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
-<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/33972111?s=280&v=4"></code>
-<code><img height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fjava-logo-icon-19.png&f=1&nofb=1"></code>
+<code><img height="40" width="40" src="https://s3-symbol-logo.tradingview.com/datadog--600.png"></code>
+
+<code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"></code>
+<code><img height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/datadog.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <br>
 
 <h2><summary align="center">Github Stats 📈</summary></h2>
@@ -59,7 +56,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
    <img align="center" src="https://streak-stats.demolab.com/?user=Nitesh-thapliyal&theme=dark&hide_border=true"/>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
-
+<br>
 <br>
 
 <p align="center">
