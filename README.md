@@ -1,6 +1,5 @@
 ## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Nitesh Thapliyal ](https://nitesh-thapliyal.tech) <a href="https://twitter.com/Bauddhik_Geek"><img align="right" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FBauddhik_Geek"></a> <a href="https://dev.to/niteshthapliyal"><img align="right" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> [<img align ="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nitesh-thapliyal)
 
-<img src="nitesh.png" height="200px" align="right" />
 
 I'm <b>curious soul learning and exploring techologies</b>. I'm a Software Developer by profession and I'm passionate about current and emerging technologies. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems.
 <br/>
