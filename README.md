@@ -14,7 +14,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 
 <h2>💭💭</h2>
-<img src = "working.jpeg" align="right" height="200px"/>
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG52aTdhdTkwYXc1OHh6dTN4eTR4dDdtZTk0NjI1ZG5zdzFteDZzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="right" height="200px"/>
 
 - 👨‍💻 I'm currently learning Web3/Blockchain
 - ☁️ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) 
