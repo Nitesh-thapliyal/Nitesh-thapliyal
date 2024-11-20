@@ -57,6 +57,34 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 </p>
 <br>
 
+```mermaid
+flowchart LR
+    direction LR
+    subgraph 1[" "]
+        direction TB
+        top1[Find Nitesh's Profile] --> bottom1[Hire Nitesh 🤝]
+    end
+    subgraph 2[" "]
+        direction TB
+        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
+    end
+
+    %% Link to subgraph1
+    3[Discover Problem 🐛] --> 1
+
+    %% Link within subgraph2
+    3[Discover Problem 🐛] --> 2
+
+    1 --> outside1["Profit" 📈]
+    2 --> outside2["Cry" 😢]
+
+    click top1 "https://www.linkedin.com/in/nitesh-thapliyal" "LinkedIn"
+
+    style 1 stroke:#072ff7,stroke-width:5px
+    style 2 stroke:#f70707,stroke-width:5px
+```
+
+
 <!-- ![](https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/footer.png) -->
 
 
