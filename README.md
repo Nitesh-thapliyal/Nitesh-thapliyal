@@ -51,11 +51,13 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 <h2><summary align="center">Github Stats 📈</summary></h2>
 <br>
 <br>
-
+<br>
 <p align="center">
 <img align="center" src="https://newgithub-readme-stats.vercel.app/api?username=Nitesh-thapliyal&show_icons=true&count_private=true&theme=radical">
 </p>
 <br>
+<hr>
+
 
 ```mermaid
 flowchart LR
