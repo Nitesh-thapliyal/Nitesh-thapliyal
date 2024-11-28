@@ -29,7 +29,7 @@ I'm <b>OpenSource enthusiast</b> and passionate about <b>community building</b>.
 
 <h2>Skills</h2>
 
-<a href="https://drive.google.com/file/d/132FSRPwtV9UG8P0RJyLEuTePTDYkB2gy/view?usp=sharing"> <img src="resume.png" align = "right" height="200px" width="200px"> </a>
+<a href="https://drive.google.com/file/d/1iV3eoFddd9FHpbE7B0w0q17cP8-2xp1K/view?usp=sharing"> <img src="resume.png" align = "right" height="200px" width="200px"> </a>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1280px-AWS_Simple_Icons_AWS_Cloud.svg.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
